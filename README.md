@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/3-column-preview-card-component-challenge-GaWj_6uvGj)
 - Live Site URL: [live site URL](https://indy-stack.github.io/3-column-preview-card-component/)
 
 ## My process
